@@ -1,2 +1,2 @@
 # LEO-Website-Footer
-Footer desgined by using HTML and CSS.
+Responsive footer desgined by using HTML and CSS.
